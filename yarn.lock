@@ -140,7 +140,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sveltejs/adapter-node@npm:^1.0.0-next.0":
+"@sveltejs/adapter-node@npm:next":
   version: 1.0.0-next.46
   resolution: "@sveltejs/adapter-node@npm:1.0.0-next.46"
   dependencies:
@@ -2716,7 +2716,7 @@ resolve@^1.20.0:
   version: 0.0.0-use.local
   resolution: "~TODO~@workspace:."
   dependencies:
-    "@sveltejs/adapter-node": ^1.0.0-next.0
+    "@sveltejs/adapter-node": next
     "@sveltejs/kit": next
     "@typescript-eslint/eslint-plugin": ^4.19.0
     "@typescript-eslint/parser": ^4.19.0
